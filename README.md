@@ -1,1 +1,5 @@
 ![images](https://github.com/cj000111/experiment1and2/blob/master/1.1.jpg)
+![images](https://github.com/cj000111/experiment1and2/blob/master/1.2.jpg)
+![images](https://github.com/cj000111/experiment1and2/blob/master/2.1.jpg)
+![images](https://github.com/cj000111/experiment1and2/blob/master/2.2.jpg)
+![images](https://github.com/cj000111/experiment1and2/blob/master/2.3.jpg)
